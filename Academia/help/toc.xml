@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<toc version="1.0"> <!--  categoryclosedimage="FolderClosed" categoryopenimage="FolderOpened"  
-topicimage="ItemIco"-->
-        <tocitem text="JavaHelp Academia"    target="aplicacion">
-           <tocitem text="Pantalla Principal"    target="Primera_Pagina"/>
-                <tocitem text="Dar de Alta"    target="Dar_Alta"/>
-	                <tocitem text="Editar Look And Feel"    target="Pagina_LaF"/>
-        </tocitem>
-</toc>
