@@ -1,0 +1,1 @@
+Aplicación de Java con funcionamiento por consola. Mediante un menú el usuario podrá elegir diferentes opciones para que el programa saque el resultado indicado como opción de la API de Servicio Meteorológico de la AEMET
